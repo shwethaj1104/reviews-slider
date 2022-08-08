@@ -6,7 +6,7 @@ const people = [
     name: 'maria ferguson',
     title: 'office manager',
     quote:
-      'Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.',
+      'The seating arrangement here comprise of one long table to seat about 21 persons or thereabouts. Every customer sits at a single long table to enjoy the coffeee and the food served here. Ambience is nice. Decor is interesting and very hipster like. Simple food is offered here.',
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const people = [
     name: 'john doe',
     title: 'regular guy',
     quote:
-      'Gastropub sustainable tousled prism occupy. Viral XOXO roof party brunch actually, chambray listicle microdosing put a bird on it paleo subway tile squid umami.',
+      'There are not enough food, service, value or atmosphere ratings for Random Food Store, Malaysia yet. Be one of the first to write a review!',
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const people = [
     name: 'peter smith',
     title: 'product designer',
     quote:
-      'Drinking vinegar polaroid street art echo park, actually semiotics next level butcher master cleanse hammock flexitarian ethical paleo.',
+      'Visited this during my short getaway to PJ on last weekend. Hipster, futuristic & simple design of the cafe caught all my attention. One long table, small space, but so enjoy sitting and taking the coffee. Food maybe good to some others but not my type. ',
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const people = [
     name: 'susan andersen',
     title: 'the boss',
     quote:
-      'Marfa af yr 3 wolf moon kogi, readymade distillery asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ',
+      ' I like it’s simplicity. However the coffee served is not simple at all. The wonderful barista explains the way to best enjoy the super ice latte. They “removed” water from the milk to leave the creamy milk for the exquisite taste of cafe latte! Brilliant! Another to die for is the TKG, it’s rice with truffle oil, caviar and raw egg. ',
   },
 ];
 
