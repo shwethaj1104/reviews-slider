@@ -41,7 +41,7 @@ function App() {
           return <article className={position} key={id}>
             <img src={image} className='person-img'></img>
             <h4>{name}</h4>
-            <p className='title'>{title}</p>
+            <p className='title person'>{title}</p>
             <p className='text'>{quote}</p>
             <FaQuoteRight className='icon' />
           </article>

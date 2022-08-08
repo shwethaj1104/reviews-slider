@@ -124,11 +124,13 @@ p {
   width: 90vw;
   margin: 5rem auto;
   max-width: var(--max-width);
+  box-shadow: 0px 2px 8px 0px #617d9878;
+  border-radius: 1rem;
 }
 
 @media screen and (min-width: 992px) {
   .section {
-    width: 95vw;
+    width: 80vw;
   }
 }
 /*
@@ -139,12 +141,19 @@ Slider
 .title {
   text-align: center;
   margin-bottom: 2rem;
+  border-radius: 1rem 1rem 0rem 0rem;
+  background: #ba5d2c;
+  padding: 0.4rem;
+}
+.person{
+  background-color: #f1f5f8 !important;
 }
 .title h2 {
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: 500;
+  color: white;
 }
 .title span {
   font-size: 0.85em;
