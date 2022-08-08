@@ -4,7 +4,7 @@ const people = [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg',
     name: 'maria ferguson',
-    title: 'office manager',
+    title: 'IT Employee',
     quote:
       'The seating arrangement here comprise of one long table to seat about 21 persons or thereabouts. Every customer sits at a single long table to enjoy the coffeee and the food served here. Ambience is nice. Decor is interesting and very hipster like. Simple food is offered here.',
   },
@@ -31,7 +31,7 @@ const people = [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
     name: 'susan andersen',
-    title: 'the boss',
+    title: 'Fan',
     quote:
       ' I like it’s simplicity. However the coffee served is not simple at all. The wonderful barista explains the way to best enjoy the super ice latte. They “removed” water from the milk to leave the creamy milk for the exquisite taste of cafe latte! Brilliant! Another to die for is the TKG, it’s rice with truffle oil, caviar and raw egg. ',
   },
