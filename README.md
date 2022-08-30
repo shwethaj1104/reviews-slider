@@ -1,6 +1,7 @@
 # Reviews Slider
 
 Application developed on React.js
+
 Check the application at https://reviews-slider-opal.vercel.app/
 
 Use left and right shift buttons to check out other reviews.
