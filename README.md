@@ -1,4 +1,4 @@
-# Reviews-Slider
+# Reviews Slider
 
 Application developed on React.js
 Check the application at https://reviews-slider-opal.vercel.app/
